@@ -1,2 +1,8 @@
-# STM32-Microcontroller-Project
-Custom STM32 microcontroller development board designed in Altium Designer. Features schematic capture, component placement, and PCB routing.
+# STM32 Microcontroller Board
+
+A custom development board designed in Altium Designer. 
+
+## 🛠️ Project Details
+* **Software:** Altium Designer
+* **Core:** STM32 Microcontroller
+* **Features:** Schematic capture, PCB component placement, and routing.
